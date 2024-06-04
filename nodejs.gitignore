@@ -1,0 +1,16 @@
+# installed node modules
+node_modules/
+
+# intellij configs
+.idea/
+
+# environment stuff
+.env
+
+# backup files
+*.bak
+
+# framework stuffs
+.next
+dist/
+output/
